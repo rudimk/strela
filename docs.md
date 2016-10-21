@@ -4,6 +4,16 @@ This doc outlines the main endpoints exposed by the Strela API, as well as what 
 
 
 
+### Installation
+
+To install Strela, please follow the steps below:
+
+1. Clone Strela.
+2. Install dependencies - you can create a virtualenv or install them system-wide: `pip install -r requirements.txt`
+3. Run the API server using `python app.py`
+
+If you'd like to run Strela as a long-running process, I recommend a combination of [Gunicorn](http://gunicorn.org/) and [PM2](http://pm2.keymetrics.io/) - PM2 was originally meant for Node.js but it works perfectly with Gunicorn too.
+
 ### All Timezones
 
 This endpoint returns a list of all timezones that both Strela and the Arrow package support. The URL for this endpoint is `/timezones`. The response is like this:
