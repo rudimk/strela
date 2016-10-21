@@ -19,7 +19,7 @@ You could start by reading some notes I typed up: [*docs.md*](https://github.com
 
 ## Can I help?
 Is the Pope Catholic?
-Check out the list of issues here. Feel free to submit a PR, and I swear I won't mess around. Or if you'd like to add something, all
+Check out the list of issues [here](https://github.com/rudimk/strela/issues). Feel free to submit a PR, and I swear I won't mess around. Or if you'd like to add something, all
 yours.
 
 ## How can I thank you?
