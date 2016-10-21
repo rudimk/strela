@@ -14,8 +14,8 @@ For now, it supports basic timezone conversion - you can query a list of all ava
 and Strela converts the current UTC timestamp to that timezone. I'd like to create API endpoints for all of Arrow's features, though,
 so hang in there. 
 
-## Docs?
-Coming right up.
+## How can I use this?
+You could start by reading some notes I typed up: [*docs.md*](https://github.com/rudimk/strela/blob/master/docs.md)
 
 ## Can I help?
 Is the Pope Catholic?
