@@ -1,4 +1,4 @@
-# strela
+# strela [![Build Status](https://travis-ci.org/rudimk/strela.svg?branch=master)](https://travis-ci.org/rudimk/strela)
 A RESTful API around the Arrow library for time manipulation.
 
 ## Stre-what?
