@@ -1,4 +1,5 @@
 # strela [![Build Status](https://travis-ci.org/rudimk/strela.svg?branch=master)](https://travis-ci.org/rudimk/strela)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frudimk%2Fstrela.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frudimk%2Fstrela?ref=badge_shield)
 A RESTful API around the Arrow library for time manipulation.
 
 ## Stre-what?
@@ -24,3 +25,7 @@ yours.
 
 ## How can I thank you?
 You can always treat me to a nice hot cup of coffee, or a nice wheat lager. Bacon and donuts are acceptable too.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frudimk%2Fstrela.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frudimk%2Fstrela?ref=badge_large)
